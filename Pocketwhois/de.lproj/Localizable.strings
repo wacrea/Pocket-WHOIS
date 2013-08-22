@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Pocketwhois
+
+  Created by William AGAY on 27/02/13.
+  Copyright (c) 2013 William AGAY. All rights reserved.
+*/
+
+"search" = "Suche";
+"falsedomain" = "Falsch domain...";
+"invalidrequest" = "Ungültige Anfrage...";
+"available" = "Verfügbar !";
+"taken" = "Bereits genutzte :(";
